@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lafsitoo",
+  "description": "Practica Back-End",
+  "keywords": [ "practica", "freecodecamp", "backend" ],
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +15,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Lafsitoo"
+	}
 }
